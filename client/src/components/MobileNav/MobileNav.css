@@ -1,4 +1,4 @@
-/* .mobile-nav {
+  .mobile-nav {
     overflow: hidden;
     position: fixed;
     top: 0;
@@ -12,11 +12,13 @@
     background-color: #1e1e1e;
     padding: 8px;
   }
-  
+
   .mobile-nav-header .mobile-nav-icon {
     color: white;
     cursor: pointer;
   }
+
+
   
   .mobile-nav-title {
     margin-left: 20px;
@@ -40,4 +42,4 @@
     .mobile-nav {
       display: none;
     }
-  } */
+  }
